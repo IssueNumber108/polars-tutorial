@@ -1,0 +1,10 @@
+[
+  {"employee_id": 1, "name": "Alice Johnson", "department": "Engineering", "salary": 95000, "years_experience": 5, "performance_score": 4.5},
+  {"employee_id": 2, "name": "Bob Smith", "department": "Sales", "salary": 75000, "years_experience": 3, "performance_score": 4.2},
+  {"employee_id": 3, "name": "Charlie Davis", "department": "Engineering", "salary": 105000, "years_experience": 8, "performance_score": 4.8},
+  {"employee_id": 4, "name": "Diana Martinez", "department": "Marketing", "salary": 68000, "years_experience": 2, "performance_score": 4.0},
+  {"employee_id": 5, "name": "Eve Wilson", "department": "Sales", "salary": 82000, "years_experience": 4, "performance_score": 4.6},
+  {"employee_id": 6, "name": "Frank Brown", "department": "Engineering", "salary": 98000, "years_experience": 6, "performance_score": 4.4},
+  {"employee_id": 7, "name": "Grace Lee", "department": "HR", "salary": 72000, "years_experience": 3, "performance_score": 4.3},
+  {"employee_id": 8, "name": "Henry Taylor", "department": "Marketing", "salary": 71000, "years_experience": 4, "performance_score": 4.1}
+]

@@ -1,0 +1,16 @@
+date,product,category,quantity,price,revenue,customer_id,region
+2024-01-01,Laptop,Electronics,5,999.99,4999.95,C001,North
+2024-01-02,Mouse,Electronics,15,29.99,449.85,C002,South
+2024-01-03,Keyboard,Electronics,10,79.99,799.90,C003,East
+2024-01-04,Monitor,Electronics,8,299.99,2399.92,C001,North
+2024-01-05,Desk,Furniture,3,399.99,1199.97,C004,West
+2024-01-06,Chair,Furniture,7,249.99,1749.93,C005,North
+2024-01-07,Webcam,Electronics,12,89.99,1079.88,C002,South
+2024-01-08,Headphones,Electronics,20,149.99,2999.80,C006,East
+2024-01-09,Desk Lamp,Furniture,15,49.99,749.85,C007,West
+2024-01-10,USB Hub,Electronics,25,34.99,874.75,C003,North
+2024-01-11,Laptop,Electronics,4,999.99,3999.96,C008,South
+2024-01-12,Monitor,Electronics,6,299.99,1799.94,C004,East
+2024-01-13,Chair,Furniture,9,249.99,2249.91,C009,West
+2024-01-14,Mouse,Electronics,18,29.99,539.82,C010,North
+2024-01-15,Keyboard,Electronics,11,79.99,879.89,C005,South
